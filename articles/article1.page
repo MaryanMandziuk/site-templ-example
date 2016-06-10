@@ -1,0 +1,5 @@
+$file_structure_top
+  $file_articles_article1Title
+  $file_structure_fulltop
+    $file_articles_article1
+$file_structure_bottom
