@@ -1,0 +1,11 @@
+$!{file_structureIndex_top}
+
+  $!{file_structureIndex_topBox}
+    $!{file_articleBox_article1Box}
+  $!{file_structureIndex_bottomBox}
+
+  $!{file_structureIndex_topBox}
+    $!{file_articleBox_article4Box}
+  $!{file_structureIndex_bottomBox}
+
+$!{file_structureIndex_bottom}
