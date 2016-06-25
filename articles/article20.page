@@ -1,0 +1,8 @@
+$!{file_structure_top}
+  $!{file_articles_article20MetaTag}
+   $!{file_structure_titleOpen}
+       $!{file_articles_article20Title}
+   $!{file_structure_titleClose}
+  $!{file_structure_fulltop}
+    $!{file_articles_article20}
+$!{file_structure_bottom}

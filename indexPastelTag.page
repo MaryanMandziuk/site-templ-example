@@ -1,0 +1,42 @@
+$!{file_structureIndex_top}
+
+  $!{file_structureIndex_rowStart}
+
+    $!{file_structureIndex_topBox}
+      $!{file_articleBox_article8Box}
+    $!{file_structureIndex_bottomBox}
+
+    $!{file_structureIndex_topBox}
+      $!{file_articleBox_article9Box}
+    $!{file_structureIndex_bottomBox}
+
+    $!{file_structureIndex_topBox}
+      $!{file_articleBox_article10Box}
+    $!{file_structureIndex_bottomBox}
+
+  $!{file_structureIndex_rowEnd}
+
+  $!{file_structureIndex_mid}
+
+           $!{file_tags_openLi}  $!{file_tags_allTag}  $!{file_tags_closeLi}
+  				 $!{file_tags_openLi}  $!{file_tags_accessoriesTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_acrylicTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_artShoppingTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_artsTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_brushesTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_coalTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_eraserTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_lessonTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_notebooksTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_oilTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_paintsTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_paperTag}  $!{file_tags_closeLi}
+           $!{file_tags_pastelTag}
+           $!{file_tags_openLi}  $!{file_tags_pencilsTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_penTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_pleasantThingsTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_reviewTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_thingsTag}  $!{file_tags_closeLi}
+           $!{file_tags_openLi}  $!{file_tags_watercolorTag}  $!{file_tags_closeLi}
+
+$!{file_structureIndex_bottom}
