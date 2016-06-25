@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('Open-Sans-Italic'),
+  url('OpenSans-Italic-webfont.woff') format('woff'),
+  url('OpenSans-Italic-webfont.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('Open-Sans-Bold'),
+  url('OpenSans-Bold-webfont.woff') format('woff'),
+  url('OpenSans-Bold-webfont.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('Open-Sans-Regular'),
+  url('OpenSans-Regular-webfont.woff') format('woff'),
+  url('OpenSans-Regular-webfont.ttf') format('truetype');
+}
+
+
+.topography { color: #222; font-family: 'Open Sans', sans-serif; font-size: 15px; font-weight: 400; line-height: 24px; margin: 0 0 14px; }
+
+
+a {
+  webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+	color: #63B2BB;
+}
+
+a:hover {
+	color: #323B3C;
+}

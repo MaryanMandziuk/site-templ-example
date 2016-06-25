@@ -1,7 +1,22 @@
 $!{file_structureIndex_top}
 
-  $!{file_structureIndex_topBox}
-    $!{file_articleBox_article1Box}
-  $!{file_structureIndex_bottomBox}
+  $!{file_structureIndex_rowStart}
+
+    $!{file_structureIndex_topBox}
+      $!{file_articleBox_article1Box}
+    $!{file_structureIndex_bottomBox}
+
+  $!{file_structureIndex_rowEnd}
+
+  $!{file_structureIndex_mid}
+
+           <li role="presentation"><a href="$!{root}/index.html" rel="category tag">Всі теги</a></li>
+           <li role="presentation"><a href="$!{root}/indexAccessoriesTag.html" rel="category tag">Вспомогательное</a></li>
+           <li role="presentation"><a href="$!{root}/indexArtsTag.html" rel="category tag">Художества</a></li>
+           $!{file_tags_lessonTag}
+           <li role="presentation"><a href="$!{root}/indexPaperTag.html" rel="category tag">Бумага</a></li>
+           <li role="presentation"><a href="$!{root}/indexPencileTag.html" rel="category tag">Карандаши</a></li>
+           <li role="presentation"><a href="$!{root}/indexReviewTag.html" rel="category tag">Обзор</a></li>
+           <li role="presentation"><a href="$!{root}/indexThingsTag.html" rel="category tag">Всякие штуки</a></li>
 
 $!{file_structureIndex_bottom}
