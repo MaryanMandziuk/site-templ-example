@@ -71,7 +71,7 @@ $!{file_structureIndex_top}
 
   $!{file_structureIndex_mid}
 
-           $!{file_tags_allTag}
+           $!{file_tags_openDiv}  $!{file_tags_allTag}  $!{file_tags_closeDiv}
   				 $!{file_tags_openLi}  $!{file_tags_accessoriesTag}  $!{file_tags_closeLi}
            $!{file_tags_openLi}  $!{file_tags_acrylicTag}  $!{file_tags_closeLi}
            $!{file_tags_openLi}  $!{file_tags_artShoppingTag}  $!{file_tags_closeLi}

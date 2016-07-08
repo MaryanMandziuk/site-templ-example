@@ -1,0 +1,9 @@
+$!{file_structure_top}
+  $!{file_articles_article15MetaTag}
+   $!{file_structure_titleOpen}
+       $!{file_articles_article15Title}
+   $!{file_structure_titleClose}
+  $!{file_structure_fulltop}
+    $!{file_articles_article15}
+  $!{file_pager_article15}
+$!{file_structure_bottom}

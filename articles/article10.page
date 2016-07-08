@@ -1,8 +1,0 @@
-$!{file_structure_top}
-  $!{file_articles_article10MetaTag}
-   $!{file_structure_titleOpen}
-       $!{file_articles_article10Title}
-   $!{file_structure_titleClose}
-  $!{file_structure_fulltop}
-    $!{file_articles_article10}
-$!{file_structure_bottom}

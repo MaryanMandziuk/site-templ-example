@@ -63,7 +63,7 @@ $!{file_structureIndex_top}
         $!{file_tags_openLi}  $!{file_tags_pencilsTag}  $!{file_tags_closeLi}
         $!{file_tags_openLi}  $!{file_tags_penTag}  $!{file_tags_closeLi}
         $!{file_tags_openLi}  $!{file_tags_pleasantThingsTag}  $!{file_tags_closeLi}
-        $!{file_tags_reviewTag}
+        $!{file_tags_openDiv}  $!{file_tags_reviewTag}  $!{file_tags_closeDiv}
         $!{file_tags_openLi}  $!{file_tags_thingsTag}  $!{file_tags_closeLi}
         $!{file_tags_openLi}  $!{file_tags_watercolorTag}  $!{file_tags_closeLi}
 

@@ -46,7 +46,7 @@ $!{file_structureIndex_top}
       $!{file_tags_openLi}  $!{file_tags_notebooksTag}  $!{file_tags_closeLi}
       $!{file_tags_openLi}  $!{file_tags_oilTag}  $!{file_tags_closeLi}
       $!{file_tags_openLi}  $!{file_tags_paintsTag}  $!{file_tags_closeLi}
-      $!{file_tags_paperTag}
+      $!{file_tags_openDiv}  $!{file_tags_paperTag}  $!{file_tags_closeDiv}
       $!{file_tags_openLi}  $!{file_tags_pastelTag}  $!{file_tags_closeLi}
       $!{file_tags_openLi}  $!{file_tags_pencilsTag}  $!{file_tags_closeLi}
       $!{file_tags_openLi}  $!{file_tags_penTag}  $!{file_tags_closeLi}

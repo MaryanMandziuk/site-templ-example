@@ -18,7 +18,7 @@ $!{file_structureIndex_top}
         $!{file_tags_openLi}  $!{file_tags_accessoriesTag}  $!{file_tags_closeLi}
         $!{file_tags_openLi}  $!{file_tags_acrylicTag}  $!{file_tags_closeLi}
         $!{file_tags_openLi}  $!{file_tags_artShoppingTag}  $!{file_tags_closeLi}
-        $!{file_tags_artsTag}
+        $!{file_tags_openDiv}  $!{file_tags_artsTag}  $!{file_tags_closeDiv}
         $!{file_tags_openLi}  $!{file_tags_brushesTag}  $!{file_tags_closeLi}
         $!{file_tags_openLi}  $!{file_tags_coalTag}  $!{file_tags_closeLi}
         $!{file_tags_openLi}  $!{file_tags_eraserTag}  $!{file_tags_closeLi}
